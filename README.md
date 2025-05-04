@@ -9,7 +9,7 @@
 <p/>欢迎来我QQ空间(1870307513)考古。有问题也欢迎问，真问到我不想回答的点也没关系，我会说的。
 <p/> 
 
-## **拒收葱色图**。
+# **拒收葱色图**。
 
 <p/>
 <p/>使用的歌单（要科学上网，以及，不要告诉LK他们）：https://drive.google.com/drive/folders/1zyGq4_qyVwXfE0t0MM2VXfYiSFSxLzjJ?usp=sharing
