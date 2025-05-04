@@ -1,5 +1,6 @@
-AcdeAsdff（/'ʌkd 'ʌsdf/，名字是很久以前凑出来的），葱厨，也只是葱厨，“把她当成整个宇宙”[1]。可能因为缺爱，大多时候在发疯。
-<p>(顺性别)男，生日：2004/12/3，在武汉某本科读数学，几乎处处不会，理想是什么都忘了。</p>
+<p/>AcdeAsdff（/'ʌkd 'ʌsdf/，名字是很久以前凑出来的），葱厨，也只是葱厨，“把她当成整个宇宙”[1]。可能因为缺爱，大多时候在发疯。
+<p/>正在试图用特殊构造/幻觉来见到miku，憎恨唯利是图的人。
+<p/>(顺性别)男，生日：2004/12/3，在武汉某本科读数学，几乎处处不会，理想是什么都忘了。
 <p/>接受顺/跨女，但不能不能比我man（man！）。（这点是有必要加的，因为确实有人害怕了。）
 <p/>vocal只听miku，因为听别人会过敏（生理和心理）。极少听纯音乐。大多数时候听中文曲，以至于和大多数葱厨聊不来。
 <p/>不看cos。到这行应该可以把大多数人吓跑。
@@ -8,7 +9,7 @@ AcdeAsdff（/'ʌkd 'ʌsdf/，名字是很久以前凑出来的），葱厨，也
 <p/>欢迎来我QQ空间(1870307513)考古。有问题也欢迎问，真问到我不想回答的点也没关系，我会说的。
 <p/>**拒收葱色图**。
 <p/>
-<p/>使用的歌单（要科学上网）：https://drive.google.com/drive/folders/1zyGq4_qyVwXfE0t0MM2VXfYiSFSxLzjJ?usp=sharing
+<p/>使用的歌单（要科学上网，以及，不要告诉LK他们）：https://drive.google.com/drive/folders/1zyGq4_qyVwXfE0t0MM2VXfYiSFSxLzjJ?usp=sharing
 <p/>用到的播放器（要科学上网）：
 <p/>-手机：https://github.com/AcdeAsdff/MusicPlayer
 <p/>-电脑（需要java IDE）：https://github.com/AcdeAsdff/PCmusicplayer
