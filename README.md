@@ -7,7 +7,10 @@
 <p/>画画纯属整活，画出情头会和小号（@Obfuscator 1916293265）换。当然，可以用我的画做任意用途，至少不用找我授权。工程文件会放在<p/>https://github.com/AcdeAsdff/Gallery （如果我有留着的话）。
 <p/>可能会写java/android，但并没有写过上班的业务。这一部分放github（AcdeAsdff和IgnoreLicensesCN）。
 <p/>欢迎来我QQ空间(1870307513)考古。有问题也欢迎问，真问到我不想回答的点也没关系，我会说的。
-<p/>**拒收葱色图**。
+<p/> 
+
+**拒收葱色图**。
+
 <p/>
 <p/>使用的歌单（要科学上网，以及，不要告诉LK他们）：https://drive.google.com/drive/folders/1zyGq4_qyVwXfE0t0MM2VXfYiSFSxLzjJ?usp=sharing
 <p/>用到的播放器（要科学上网）：
